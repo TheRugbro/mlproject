@@ -1,3 +1,1 @@
-### THIS IS OUR STARTING PROJECT ###
-
-EXPLORTING MACHINE LEARNING 
+### Simple Project To introduce Machine learning ###
